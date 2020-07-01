@@ -6,8 +6,8 @@ Are foreign resident more and more? Can it affect our number of acquirement nati
 
 ## Data source
 Region: Taiwan, Domain category: Numbers of 'acquirement of the R.O.C. Nationality by Causes and Home Country' and 'Foreign Residents', by year(2010-2019)
-  1. [foreigner resident 外僑居留人數按國籍、職業分](https://www.moi.gov.tw/files/site_stuff/321/2/year/year.html):
-  2. [Acquirement of the R.O.C. Nationality by Causes and Home Country 國籍之歸化取得人數](https://www.moi.gov.tw/files/site_stuff/321/2/year/year.html):
+  1. [Foreigner resident 外僑居留人數按國籍、職業分](https://www.moi.gov.tw/files/site_stuff/321/2/year/year.html)
+  2. [Acquirement of the R.O.C. Nationality by Causes and Home Country 國籍之歸化取得人數](https://www.moi.gov.tw/files/site_stuff/321/2/year/year.html)
   
 # Plot
 <img src="images/Are-foreign-resident-more-and-more.png" alt="hi" class="inline"/>
