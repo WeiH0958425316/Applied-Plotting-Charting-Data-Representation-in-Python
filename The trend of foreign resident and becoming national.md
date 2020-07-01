@@ -2,7 +2,8 @@
 The trend of foreign resident and becoming national
 
 ## Question
-Are foreign resident more and more? Can it affect our number of acquirement nationality being increasing?
+Are foreign residents more and more?  
+Can it affect our number of acquirement nationality being increasing?
 
 ## Data source
 Region: Taiwan, Domain category: Numbers of 'acquirement of the R.O.C. Nationality by Causes and Home Country' and 'Foreign Residents', by year(2010-2019)
